@@ -1,4 +1,4 @@
-#define ESP32 1
+#define ESP32
 #ifdef ESP32
 
     #define I2C_GPIO_SDA 21

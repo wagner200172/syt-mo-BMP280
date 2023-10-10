@@ -68,8 +68,3 @@ void app_main() {
     initI2C();
     userRead();
 }
-
-
-
-uint8_t dev_addr = BMP280_I2C_ADDR_PRIM;
-rslt =bmp280

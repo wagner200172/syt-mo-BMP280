@@ -68,4 +68,3 @@ void app_main() {
     initI2C();
     userRead();
 }
-
